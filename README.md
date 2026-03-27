@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Krishna Sanghavi</h1>
-<h3 align="center">🚀 Developer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Developer | Tech | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+cool+projects...;Learning+new+technologies...;Always+improving+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+cool+projects...;Learning+new+technologies...;Tring+to+improve+🚀&center=true&width=500&height=45">
 </p>
 
 ---
@@ -81,5 +81,5 @@
 ## ⚡ Quote
 
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  <i>"Code. Run. Debug. Repeat."</i>
 </p>
