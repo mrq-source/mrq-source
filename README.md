@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mr.Q</h1>
+<h1 align="center">Hey 👋, I'm Krishna Sanghavi</h1>
 <h3 align="center">🚀 Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
