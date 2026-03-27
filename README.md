@@ -35,27 +35,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrq-source&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrq-source&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mrq-source&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrq-source&theme=onedark&row=1&column=6" />
 </p>
 
 ---
