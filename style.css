@@ -1,17 +1,78 @@
+/*border, margin, position, alignment, background-color, background-image, size, attachment, font-family*/
+:root{
+    --cur: rgb(255, 102, 0);
+    --nor: white;
+    --bgc: black;
+    --par: rgb(179, 0, 0);
+    --nam: azure;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
+    background-color:var(--bgc);
     background-image: url(background.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: right;
-
+    background-position: top;
+    background-size: cover;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+body::before{
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    opacity: 0.5;
+}
+header{
+    position: sticky;
+    text-align: right;
+    border: 1px solid;
+    border-color: white;
+    color: white;
+}
+box1{
+    margin-top: 10px;
+    position: sticky;
+    top: 5px;
+    color: var(--par);
+    font-size: 40px;
+    border: 1px solid;
+    border-color: white;
+    width: auto;
+    height: auto;
 }
 .face{
-    font-family: "Press Start 2P", "Tomorrow","Rationale";
+    align-self: left;
+    position: fixed;
+    border: 1px solid;
+    border-color: white;
 }
-#mask{
-     color: red;
 
+#mask{
+    color: var(--nor);
+    font-family: 'Bitcount Single', 'Audiowide';
+    font-size: 40px;
+    border: 1px solid;
+    border-color: white;
+    padding: 5px;
 }
 #name{
-    color
+    color:var(--nam);
+    font-family: 'Press Start 2P', 'Tomorrow', Rationale;
+    margin-top: 80px;
+    border: 1px solid;
+    border-color: white;
+}
+#dis{
+    position: absolute;
+    top: 225px;
+    align-self: left;
+    border: 1px solid;
+    border-color: white;
 }
