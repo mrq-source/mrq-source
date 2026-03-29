@@ -1,0 +1,14 @@
+body{
+    background-image: url(background.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.face{
+    font-family: "Press Start 2P", "Tomorrow","Rationale";
+}
+#mask{
+     color: red;
+     
+}
