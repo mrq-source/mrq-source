@@ -1,78 +1,80 @@
-/*border, margin, position, alignment, background-color, background-image, size, attachment, font-family*/
 :root{
-    --cur: rgb(255, 102, 0);
-    --nor: white;
-    --bgc: black;
-    --par: rgb(179, 0, 0);
-    --nam: azure;
+    --primary-color: #d80019;
+    --secondary-color: #ffffff;
+    --accent-color: rgb(207, 38, 0);
+    --background-color: #000000;
+    --text-color: #ffffff;
+}
+html{
+    scroll-behavior: smooth;
 }
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+nav{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 25%;
+    background-color: transparent;   
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    padding: 10px;
+    text-size-adjust: 20px;
+    font-family: "Fontdiner Swanky", "Fruktur";
+}
+.sidebar{
+
+}
 body{
-    background-color:var(--bgc);
     background-image: url(background.png);
+    background-size: cover;
+    background-position: left;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-    min-height: 100vh;
-    overflow-x: hidden;
-}
-body::before{
-    content: '';
-    position: fixed;
-    inset: 0;
-    pointer-events: none;
-    z-index: 0;
-    opacity: 0.5;
-}
-header{
-    position: sticky;
-    text-align: right;
-    border: 1px solid;
-    border-color: white;
-    color: white;
-}
-box1{
-    margin-top: 10px;
-    position: sticky;
-    top: 5px;
-    color: var(--par);
-    font-size: 40px;
-    border: 1px solid;
-    border-color: white;
-    width: auto;
-    height: auto;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    padding-left: 20px;
 }
 .face{
-    align-self: left;
-    position: fixed;
-    border: 1px solid;
-    border-color: white;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    color: var(--text-color);
+    width: 80%;
+    
 }
-
 #mask{
-    color: var(--nor);
-    font-family: 'Bitcount Single', 'Audiowide';
-    font-size: 40px;
-    border: 1px solid;
-    border-color: white;
-    padding: 5px;
+    width: 100%;
+    height: 100%;
+    font-family: "Asimovian", "Fontdiner Swanky", sans-serif;
+    font-size: 3.5rem;
 }
 #name{
-    color:var(--nam);
-    font-family: 'Press Start 2P', 'Tomorrow', Rationale;
-    margin-top: 80px;
-    border: 1px solid;
-    border-color: white;
+    font-family: "Press Start 2P", "Courier Prime", monospace;
+    font-size: 2rem;
 }
+/*.icon{
+    font-size: 38px;
+    color: var(--text-color);
+    cursor: pointer;
+    transition: 0.25s;
+    display: flex;
+    flex-direction: row;
+    justified-content: center;
+    align-items: center;
+}
+con:hover{
+    transform: translateY(-15px) scale(1.7);
+}*/
 #dis{
-    position: absolute;
-    top: 225px;
-    align-self: left;
-    border: 1px solid;
-    border-color: white;
+    font-size: 20px;
+    font-family:"Bitcount Single", "Courier Prime", monospace;
+    
 }
