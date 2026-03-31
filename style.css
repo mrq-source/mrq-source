@@ -150,32 +150,19 @@ section{
     padding: 20px;
     font-family: "Rubik Pixels", "Fruktur";
     z-index: 4;
-    background-image: url(background.png);
+    background-color: black;
     background-size: cover;
-    alt: "Background Image";
     background-position: left;
     background-attachment: fixed;
     background-repeat: no-repeat;
-}
-.backround{
-    position: absolute;
-    width: 100%;
-    height: 100vh;
-    background-color: var(--background-color);
-    z-index: 2;
-    background-position: left;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url(background.png);
-    filter: blur(10px);
+    position: relative;
 }
 #am{
     display: flex;
     justify-self: middle;
     align-items: center;
     align-content: right;
-    padding-left: 16% ;
+    padding-left: 14% ;
 }
 .about{
     font-family: "Fruktur", "Rubik Pixels";
@@ -186,15 +173,15 @@ section{
 }
 #about-image{
     image-resolution: 200dpi;
-    width: 200px;
-    height: 250px;
-    display: flex;
-    align-items: right;
+    width: 300px;
+    height: 375px;
     z-index: 3;
-    flex-direction: row;
     border-radius: 10px;
-    justify-content: right;
-    border: 1px solid var(--powder-blush);
-    text-shadow: 0px 0px 1px var(--x);
-
+    border: 2px solid red;
+    box-shadow: 0px 0px 15px var(--shadow);
+    float: right;
+    position: absolute;
+    right: 15%;
+}
+.background{
 }
