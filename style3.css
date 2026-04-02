@@ -55,7 +55,11 @@
       transition: color 0.2s;
     }
     .nav-links a:hover { color: var(--accent); }
+<<<<<<< HEAD
     .hero {
+=======
+    #hero {
+>>>>>>> c1381d27ff11e2f1047cf47000be5353a3c1acf5
       padding: 6rem 2.5rem 4rem;
       position: relative;
       overflow: hidden;
@@ -71,7 +75,11 @@
       border-radius: 2px;
       margin-bottom: 1.5rem;
     }
+<<<<<<< HEAD
     .hero h1 {
+=======
+    #hero h1 {
+>>>>>>> c1381d27ff11e2f1047cf47000be5353a3c1acf5
       font-family: 'Syne', sans-serif;
       font-weight: 800;
       font-size: clamp(3rem, 8vw, 7rem);
@@ -79,11 +87,19 @@
       letter-spacing: -0.04em;
       margin-bottom: 0.5rem;
     }
+<<<<<<< HEAD
     .hero h1 .outline {
       color: transparent;
       -webkit-text-stroke: 1.5px rgba(255,255,255,0.35);
     }
     .hero h1 .highlight { color: var(--accent); }
+=======
+    #hero h1 .outline {
+      color: transparent;
+      -webkit-text-stroke: 1.5px rgba(255,255,255,0.35);
+    }
+    #hero h1 .highlight { color: var(--accent); }
+>>>>>>> c1381d27ff11e2f1047cf47000be5353a3c1acf5
     .hero-sub {
       font-size: 0.85rem;
       color: var(--muted);
