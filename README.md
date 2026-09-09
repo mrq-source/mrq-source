@@ -1,68 +1,79 @@
-<h1 align="center">Hey 👋, I'm Krishna Sanghavi</h1>
-<h3 align="center">🚀 Developer | Tech | Problem Solver</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+cool+projects...;Learning+new+technologies...;Tring+to+improve+🚀&center=true&width=500&height=45">
+  <img src="asset/banner.png" alt="Banner" width="100%">
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Krishna Sanghavi</h1>
 
-## 🧑‍💻 About Me
-- 🔭 Currently working on: **Web Projects & Experiments**
-- 🌱 Learning: **JavaScript, Advanced Web Dev, AI Basics**
-- ⚡ Goal: **Become a skilled full-stack developer**
-- 🧠 Always exploring new technologies
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 📌 Featured Project
-🔗 **Cuppa Joy Menu**  
-👉 https://mrq-source.github.io/Cuppa-joy-menu/
-
----
-
-## 🔥 Streak Stats
+<h3 align="center">Frontend UI/UX designer</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mrq-source&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Line+one+of+your+tagline;%3E+Line+two+of+your+tagline;%3E+Line+three+of+your+tagline" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+The one who builts for people and for production
+</p>
 
-## 📫 Connect
+<h2 align="center">🚀 About Me</h2>
+
+<img align="right" src="asset/side-img.jpg" width="280" alt="Illustration"/>
+
+**Krishna Sanghavi**, here — I am a student at DJSCE, Head of Events of DJS TC and the a frontened developer aiming to be a fullstack developer.
+
+I am learning Competitive Programming and CTF.
+
+Currently, I'm learning **frontend and backend designing**, while sharpening my skills in **event management**.
+
+My goal is simple: rework on myself everyday till I am not perfect.
+
+<br clear="right"/>
+
+<h2 align="center">🤝 Connect</h2>
 
 <p align="center">
   <a href="https://github.com/mrq-source">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/krishna-sanghavi-k2759s">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:krishnasanghavi27@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
----
-
-## 👀 Profile Views
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrq-source&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
 </p>
 
----
+<h2 align="center">📊 GitHub Stats</h2>
 
-## ⚡ Quote
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mrq-source&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+</div>
+
+<h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <i>"Code. Run. Debug. Repeat."</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrq-source&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+</p>
+
+<h2 align="center">🧊 3D Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/profile-3d-contrib/profile-night-rainbow.svg">
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/profile-3d-contrib/profile-night-rainbow.svg">
+  </picture>
+</p>
+
+<h2 align="center">⌘ Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
