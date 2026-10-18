@@ -7,7 +7,7 @@
 <h3 align="center">Frontend UI/UX designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Line+one+of+your+tagline;%3E+Line+two+of+your+tagline;%3E+Line+three+of+your+tagline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Wake.+Craft.+Code.+Repeat;%3E+Just+Do+It;%3E+Live+It+to+the+fullest" alt="Typing SVG" />
 </p>
 
 <p align="center">
